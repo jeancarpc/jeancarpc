@@ -2,7 +2,11 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
+<<<<<<< HEAD
     - cron: '* */12 * * *'
+=======
+    - cron: "* */12 * * *"
+>>>>>>> 18870afe3350a50f4f5003493e5f6ac623953d12
   workflow_dispatch:
 
 jobs:
