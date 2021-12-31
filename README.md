@@ -22,13 +22,21 @@
 ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000? style = for-the-badge & logo = youtube & logoColor = white "target =" _ blank "> </a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target =" _ blank "> </a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-% 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
- 
-  ! [ Animação de cobra ] (https://github.com/jeancarpc/jeancarpc/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.youtube.com/channel/" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000? style = for-the-badge & logo = youtube & logoColor = white "target =" _ blank "> </a>
+
+<a href="https://instagram.com/jeancarpc" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" \_ blank "> </a>
+
+<a href="https://www.twitch.tv/jeancarpc" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target =" \_ blank "> </a>
+
+<a href="https://discord.gg/" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" \_ blank "> </a>
+
+<a href = "jeancarpc@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+
+<a href="https://www.linkedin.com/in/jean-carlos-b3167b125/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-% 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" \_ blank "> </a>
+
+  <p dir="auto">
+    <a target="_blank" rel="noopner noreferrer" hrf="https://github.com/jeancarpc/jeancarpc/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/jeancarpc/raw/output/github-contribution-gird-snake.svg" alt="Animação de cobra" style="max-width:100%;"></a>
+  </p>
  
 </div>
