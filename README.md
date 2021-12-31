@@ -34,9 +34,6 @@
 
 <a href="https://www.linkedin.com/in/jean-carlos-b3167b125/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-% 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" \_ blank "> </a>
 
-  <p dir="auto">
-    <a target="_blank" rel="noopner noreferrer" hrf="https://github.com/jeancarpc/jeancarpc/blob/output/github-contribution-grid-snake.svg">
-    <img src="https://github.com/jeancarpc/raw/output/github-contribution-gird-snake.svg" alt="Animação de cobra" style="max-width:100%;"></a>
-  </p>
- ! [ Animação de cobra ] (https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+ ! [ Animação de cobra ] (https://github.com/jeancarpc/jeancarpc/blob/output/github-contribution-grid-snake.svg)
 </div>
