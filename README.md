@@ -1,4 +1,4 @@
-### Hi there 👋 ! Eu sou Jean Carlos
+### Hi there 👋 ! Jean Carlos
 
 <div align = "center">
   <a href="https://github.com/jeancarpc">
